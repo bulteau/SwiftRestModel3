@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.0.0)
+  - HTTPStatusCodes (3.1.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - HTTPStatusCodes (~> 3.1.0)
+  - SwiftyJSON (from `https://github.com/acegreen/SwiftyJSON.git`, branch `swift3`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :branch: swift3
+    :git: https://github.com/acegreen/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 8971384559780e631b041ac91b16734a396d4c14
+    :git: https://github.com/acegreen/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  HTTPStatusCodes: e0747e2497f1c887944a306b7d7122cb2a01f553
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: d6b50214b4b153d0762b13d2fa6353217716cd6a
+
+COCOAPODS: 1.1.0.rc.2
